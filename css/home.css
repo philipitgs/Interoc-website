@@ -1,0 +1,39 @@
+#row_b {
+    background-color: RGBA(74,74,74,0.7);
+}
+
+.text {}
+
+.txt {
+    width: 270px;
+    height: 330px;
+    text-align: left;
+    margin-right: 5px
+    
+}
+
+.txt #wel {
+    font-size: 3.5rem;
+    font-weight: 400;
+/*    text-decoration: underline;*/
+/*    color: #c43b3b;*/
+}
+
+.txt hr {
+    width: 30px;
+    color: #c43b3b;
+    height: 4px;
+}
+
+.text #intro {
+    font-size: 2rem;
+    color: white;
+    margin-top: 40px;
+}
+
+
+.image img {
+    height: 350px;
+    z-index: -10;
+    
+}
