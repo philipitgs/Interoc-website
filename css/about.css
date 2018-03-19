@@ -1,0 +1,39 @@
+#row_b {
+    background-color: aqua;
+}
+
+.text{}
+
+
+.txt {
+    width: 270px;
+    height: 330px;
+    text-align: right;
+    margin-right: (100%-270px)
+}
+
+
+.txt #wht{
+    font-size: 3rem;
+    font-weight: 400;
+    width: 270px;
+    height: 20px;
+    text-align: right;
+    
+    
+}
+
+.txt #intro{
+    
+    font-size: 5rem;
+    color: white;
+    margin-top: 40px;
+}
+
+
+.txt #wel{
+    font-size: 3.5rem;
+    font-weight: 400;
+/*     text decoration: underline;*/
+/*     color: #c43b3b;*/
+}
