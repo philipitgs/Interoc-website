@@ -20,7 +20,6 @@ html {
 
 #row_b{
     height: calc(100% - 120px);
-/*    background-color: green;*/
 }
 
 .logo {
@@ -41,6 +40,15 @@ html {
     right: 0;
     bottom: 0;
 }
+
+.f-center{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+
 
 .hdr {
 

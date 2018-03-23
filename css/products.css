@@ -1,0 +1,66 @@
+#row_b{
+    background-color: white;
+}
+
+#mid{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    position: relative; 
+}
+
+#mid p {
+    font-size: 2.5rem;
+    font-weight: 400;   
+}
+
+#cont {
+    width: 100%;
+}
+
+.parent_{
+    width: 80%;
+    min-height: 400px;
+    height:auto;
+    
+    flex-wrap: wrap;
+    
+}
+
+.child_{
+    width: 250px;
+    height: 320px;
+    /*background-color: black;*/
+    border-style: solid;
+    border-color: #9b9b9b;
+    border-radius: 5px;
+    border-width: thin;
+}
+
+._spc{
+    width: 100%;   
+}
+
+.a {
+    height: 60%; 
+}
+
+.a img {
+    width: 60%;
+    height: 75%
+}
+
+.spc_2 {
+    height: 40%; 
+}
+.b{}
+
+.c{}
+._spc ul {
+    font-size: 0.85rem;
+    padding: 15px;
+}
+.b ul{
+    color: #9b9b9b;
+    padding-left: 50px;
+}
