@@ -72,17 +72,17 @@
     align-items: stretch;
     width: 1250px;
     height: 500px;
-    background-color: aqua;
+    background-c/**/olor: RGBA(74,74,74,0.7);
 }
 
-.f-center_feedback_form   {
-    display: f/**/lex;
-    justify-content: center;
-    align-content: center;
-    align-items: stretch;
-    width: 1250px;
-    height: 500px;
-    background-color: black;
+
+.txt_feed {
+    width: 280px;
+    height: 140px;
+    text-align: center;   
+    padding-top: 100px;
+    margin-left: 500px;
 }
+
     
     
